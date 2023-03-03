@@ -1,0 +1,15 @@
+{
+  "name": "image-resize",
+  "version": "1.0.0",
+  "description": "App to resize images",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Malick",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^23.1.1",
+    "nodemon": "^2.0.21"
+  }
+}
